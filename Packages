@@ -1,0 +1,34 @@
+Package: com.satvikb.selectionplus
+Name: SelectionPlus
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Architecture: iphoneos-arm
+Description: Make the text selection window yours!
+Maintainer: Satvik  <satvikdeveloper@gmail.com>
+Author: Satvik <satvikdeveloper@gmail.com>
+Section: Tweaks
+Version: 1.0.3.6
+Installed-Size: 516
+Filename: deb/com.satvikb.selectionplus_1.0.3.6_iphoneos-arm.deb
+Size: 64040
+MD5sum: 6656ee9e985bd2d83d4811f711d1642c
+SHA1: 6656EE9E985BD2D83D4811F711D1642C
+SHA256: 58ED135877410182FEB25C5A05FB3CD138653947D1BEA87A788E6F6C3C116824
+
+
+Package: com.rango.gasolina
+Name: Gasolina
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Saves you some battery!
+Maintainer: Rango
+Author: Rango
+Section: Tweaks
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+Version: 0.3.1
+Installed-Size: 340
+Filename: deb/com.rango.gasolina_0.3.1_iphoneos-arm.deb
+Size: 27820
+MD5sum: a795180d7b59547d97e471e351be4edd
+
+
